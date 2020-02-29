@@ -1,0 +1,12 @@
+/* CSS Document */
+*{
+	background-color: #11101E;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.video{
+	max-height: 100%;
+	max-width: 100%;
+}
